@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush0915/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ayush0915/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
